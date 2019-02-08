@@ -1,5 +1,5 @@
 # mandala_Stylesheet
-#nikitha mandala
+# nikitha mandala
 
 ## Repository links
 
