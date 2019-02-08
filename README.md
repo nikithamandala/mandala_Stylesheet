@@ -3,7 +3,7 @@
 ## Repository Links
 
 - [Webpage](https://nikithamandala.github.io/mandala_Stylesheet/)
-- [Source](https://github.com/nikithamandala/mandala_Stylesheet)
+# [Source](https://github.com/nikithamandala/mandala_Stylesheet)
 
 ## About
 
