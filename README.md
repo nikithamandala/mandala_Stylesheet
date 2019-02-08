@@ -2,8 +2,8 @@
 
 ## Repository Links
 
-- [Webpage](https://github.com/nikithamandala/mandala_Stylesheet)
-- [Source](https://github.com/nikithamandala/aboutme "Working With aboutme source")
+- [Webpage](https://nikithamandala.github.io/mandala_Stylesheet/)
+- [Source](https://github.com/nikithamandala/mandala_Stylesheet)
 
 ## About
 
