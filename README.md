@@ -1,13 +1,13 @@
 # mandala_Stylesheet
 
-## Repository Links
+## Repository links
 
-- [Webpage](https://nikithamandala.github.io/mandala_Stylesheet/ "stylesheet site")
-- [Source](https://github.com/nikithamandala/mandala_Stylesheet "stylesheet site")
+- [webpage](https://nikithamandala.github.io/mandala_Stylesheet/)
+* [source](https://github.com/nikithamandala/mandala_Stylesheet)
 
 ## About
 
-This repo is used to play with github commands like push,pull,commit which will be very useful in future.
+This repo is all about my first website creation using html and css.
 
 ## Recommended Tools
 
