@@ -31,8 +31,12 @@ rel="stylesheet" href="calculator.css"/>
                 <li class="abc"><a href= https://github.com/nikithamandala>
                   <img src="github.png" alt=Home class="abc" height="25" width="25" ></a></li>
           </ul></nav>
+
+         
 </head>
+<script src="calculator.js"></script>
 <body>
+   
     <div class="grid-container">
   
         <div class="item2">
@@ -41,22 +45,25 @@ rel="stylesheet" href="calculator.css"/>
                 </div>
                  </div>
         <div class="item3">
-            Enter Number:
-               <input id="value1" type="text" name="x" size=30>
-                 <br>
-             Enter power :  
-               <input id="value2" type="text" name="y" size=30><br> </div>  
-        <div class="item4">
-            
-         <input type="button" value="Calculate" ></button>
-          <button type="reset" value="Reset">Clear</button>
-               <br>
-         The result is:
-         <input id="result" type="text" name="answer" size=30> 
-         </div>
+            <form >
+                Enter Number:
+                <input id="value1" type="text" name="x" size=30>
+                <br>
+                Enter power :  
+                <input id="value2" type="text" name="y" size=30><br>
+                <input type="button" value="Calculate" onClick='calMath()'></button>
+                <button type="reset" value="Reset">Clear</button>
+                <br>
+                The result is:
+                <input id="result" type="text" name="answer" size=30>
+                </form></div>  
+      </body>
 
+      <div id="testing">
+        AJAX Testing <br>
+          <button type="button" onclick="loadDoc()">Change Content</button>
+          </div>
+          
 
-  
-
-</body>
+          
 </html>
